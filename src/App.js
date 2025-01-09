@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <h1>This heading is from react application.</h1>
     <h1>This code is added by Manjunadh on behalf of Prashanth and Karthik</h1>
+    <h1>This code is added by Prasant on behalf of BRN and Karthik</h1>
     </div>
   );
 }
