@@ -36,6 +36,7 @@ function App() {
 
   return (
     <div className="App">
+      <h1>This line is added in br1 branch</h1>
       <h1>
         This is testing line to check branch protection is working or not.
       </h1>
