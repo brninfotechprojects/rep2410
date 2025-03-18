@@ -36,6 +36,11 @@ function App() {
 
   return (
     <div className="App">
+      <h1>This line is added in br1 branch</h1>
+      <h1>This is another line for PR test</h1>
+      <h1>
+        This is testing line to check branch protection is working or not.
+      </h1>
       <h1>This heading is from react application.</h1>
       <h1>
         This code is added by Manjunadh on behalf of Prashanth and Karthik
