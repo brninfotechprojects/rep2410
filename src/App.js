@@ -36,6 +36,9 @@ function App() {
 
   return (
     <div className="App">
+      <h1>
+        This is testing line to check branch protection is working or not.
+      </h1>
       <h1>This heading is from react application.</h1>
       <h1>
         This code is added by Manjunadh on behalf of Prashanth and Karthik
